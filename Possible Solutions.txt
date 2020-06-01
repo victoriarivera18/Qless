@@ -1,0 +1,17 @@
+Solutions to look into regarding the gathering of data necessary for the app to function accordingly.
+  
+  Problem: How do we get real-time data on the amount/quantity of people inside a dining location?
+           - AWS Deeplens camera: can code it to learn to identify silhoutes of people or heads (would each location hae to buy their own?)
+           - pressure sensors into ground (more intense)
+           - heat sensors (where would be put them?)
+           
+Regarding the Deeplens solution, Our product would be the software that restuarants download onto their cameras and with that software we 
+a able to link camera to our app and add it to the map of dining locations 
+      - my question is: would we still  own the software/program or would Amazon somehoe be involved becasue we are usig their technolgy
+        to implement our app
+       
+       
+       
+What I want to maintain: our product is the software and app that will display information on wait times or busyness of a dining location.
+                          - how likely are owners of restuarants going to buy external hardware for this app?
+        
